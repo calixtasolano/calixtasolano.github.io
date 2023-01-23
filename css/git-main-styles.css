@@ -19,11 +19,11 @@ body.git-main > p > a {
   text-decoration: none;
 }
 
-@media all and (min-width: 500px) {
+@media all and (min-width: 720px) {
   body {
-    padding: ;
+    padding: 3em 5em;
   }
   body.git-main > h1 {
-    font-size: 3em 5em;
+    font-size: 3em;
   }
 }
