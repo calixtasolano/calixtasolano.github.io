@@ -1,14 +1,14 @@
 body {
-  padding: 1.2em;
+  padding: 3em 2em;
 }
 
 body.git-main {
-  background-color: #64686d;
+  background-color: #596869;
 }
 
 body.git-main > h1 {
   color: #b3b46a;
-  font-size: 3em;
+  font-size: 2.4em;
   margin-bottom: 1em;
 }
 body.git-main > p {
@@ -16,4 +16,14 @@ body.git-main > p {
 }
 body.git-main > p > a {
   color: #d8d0c1;
+  text-decoration: none;
+}
+
+@media all and (min-width: 500px) {
+  body {
+    padding: ;
+  }
+  body.git-main > h1 {
+    font-size: 3em 5em;
+  }
 }
