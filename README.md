@@ -1,2 +1,0 @@
-"# VueInventory" 
-"# calixtasolano.github.io" 
