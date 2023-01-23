@@ -1,0 +1,19 @@
+body {
+  padding: 1.2em;
+}
+
+body.git-main {
+  background-color: #64686d;
+}
+
+body.git-main > h1 {
+  color: #b3b46a;
+  font-size: 3em;
+  margin-bottom: 1em;
+}
+body.git-main > p {
+  font-size: 1.2em;
+}
+body.git-main > p > a {
+  color: #d8d0c1;
+}
