@@ -26,4 +26,7 @@ body.git-main > p > a {
   body.git-main > h1 {
     font-size: 3em;
   }
+  body.git-main > p {
+    font-size: 1.4em;
+  }
 }
